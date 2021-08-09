@@ -87,6 +87,15 @@ h1 {
   padding-left: 150px;
 }
 
-input.w3-input {
-  length: 700px;
+input#txtbox {
+  width: 90%;
+  border: transparent;
+}
+
+input.favorite.styled {
+  background-color: rgb(0, 204, 255);
+}
+
+#text {
+  background-color: red;
 }
